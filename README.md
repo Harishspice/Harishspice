@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a Machine Learning Model that identifies shhhhh<br>👯 I’m looking to collaborate on Cloud Computing<br>🤝 I’m looking for help with hidden Libraries in python<br>🌱 I’m currently learning AWS<br>💬 Ask me about your mom<br>⚡ Fun fact - I train everyday
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
 ## 🌐 Socials:
