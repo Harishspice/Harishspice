@@ -5,9 +5,6 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=Harishspice&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harishspice&theme=gotham&hide_border=false)<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthim1304&theme=gotham" alt="kruthim1304" /><img src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png" style="margin-left:20px;" alt="alt text" width="200px" height="200px" >
