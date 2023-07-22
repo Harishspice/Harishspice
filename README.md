@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&size=40&duration=2000&pause=1000&color=D019F7&background=FF358100&center=true&vCenter=true&width=435&lines=Hey+You!+I'm+Harish!!!;Welcome+to+my+github+;Contribute+some)](https://git.io/typing-svg)
+
 # 💫 About Meh:
 🔭 I’m currently working on a Machine Learning Model that would do something which I don't want to make public<br>👯 I’m looking to collaborate on Cloud Computing<br>🌱 I’m currently learning AWS<br>⚡ Fun fact - I train everyday
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
