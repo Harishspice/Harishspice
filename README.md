@@ -6,7 +6,7 @@
 ![AcrobaticGoodnaturedBooby-size_restricted](https://github.com/Harishspice/Harishspice/assets/117935868/47ae3507-2948-4388-9e15-4bc0106ed17a)
 
 # 💫 About Meh:
-🔭 I’m currently working on a Machine Learning Model that would do something which I don't want to make public<br>👯 I’m looking to collaborate on Cloud Computing<br>🌱 I’m currently learning AWS<br>⚡ Fun fact - I train everyday
+🔭 I’m currently working on a Machine Learning Model that would do something which I don't want to make public<br>👯 I’m looking to collaborate on Cloud Computing<br>🌱 I’m currently learning AWS<br>⚡ Fun fact - I train everyday.
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
