@@ -15,4 +15,4 @@
 
 
 
-![giphy (1)](https://github.com/Harishspice/Harishspice/assets/117935868/30047856-ebff-4412-9825-04ff87fb261c) 
+![mjf-mid](https://github.com/Harishspice/Harishspice/assets/117935868/c843a7de-4b13-46b7-9d85-cfe93b177d70)
