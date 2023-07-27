@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #  🦾 About Meh:
-🔭 I’m currently working on a Machine Learning Model that would do something which I don't want to make public<br>👯 I’m looking to collaborate on Cloud Computing<br>☁️ I’m currently learning AWS<br> 🥊Fun fact - I train everyday.
+🔭 I’m currently working on a Complex Deep Learning Model<br>👯 I’m looking to collaborate on Cloud Computing<br>☁️ I’m currently learning AWS<br> 🥊Fun fact - I train everyday.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harishspice&theme=gotham&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishspice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
