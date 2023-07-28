@@ -12,4 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harishspice&theme=gotham&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishspice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![Harishspice's Medium](https://github-readme-medium.vercel.app/?username=harishr.shankar&limit=2&bg=black&text=green&font=Lugrasimo)](https://medium.com/@harishr.shankar)
-<img align="right" alt="Coding" width="500" src="https://github.com/Harishspice/Harishspice/assets/117935868/c843a7de-4b13-46b7-9d85-cfe93b177d70"/>
+<img align="middle" alt="Coding" width="500" src="https://github.com/Harishspice/Harishspice/assets/117935868/c843a7de-4b13-46b7-9d85-cfe93b177d70"/>
