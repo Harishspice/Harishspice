@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://medium.com/@harishr.shankar">
-    <img src="https://github-readme-medium.vercel.app/?username=harishr.shankar&limit=2&bg=black&text=green&font=Lugrasimo" alt="Harishspice's Medium" width="600" style="max-width: 100%;"/>
+    <img src="https://github-readme-medium.vercel.app/?username=harishr.shankar&limit=5&bg=pink&text=black&font=Tektur" alt="Harishspice's Medium" width="600" style="max-width: 100%;"/>
   </a>
 </div>
 
