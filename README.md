@@ -11,4 +11,6 @@
 
 
 [![Harishspice's Medium](https://github-readme-medium.vercel.app/?username=harishr.shankar&limit=2&bg=black&text=green&font=Lugrasimo)](https://medium.com/@harishr.shankar)
-<img align="center" alt="DEVIL" width="600" src="https://github.com/Harishspice/Harishspice/assets/117935868/e4578949-56d1-4ea2-ad5c-dc224ceb7550"/>
+<div style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
+  <img align="center" alt="DEVIL" width="600" src="https://github.com/Harishspice/Harishspice/assets/117935868/e4578949-56d1-4ea2-ad5c-dc224ceb7550"/>
+</div>
